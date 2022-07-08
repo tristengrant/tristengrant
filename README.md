@@ -3,4 +3,4 @@
 ### I use Github to manage and version control my personal website, [tristengrant.com](https://tristengrant.com)
 
 - YouTube Videos: [youtube.com/tristengrant](https://youtube.com/tristengrant)
-- Link Page: [tristengrant.link](https://tristengrantlink)
+- Link Page: [tristengrant.link](https://tristengrant.link)
