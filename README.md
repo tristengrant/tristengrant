@@ -4,4 +4,4 @@
 
 - YouTube Videos: [youtube.com/@tristengrant](https://youtube.com/@tristengrant)
 - Link Page: [tristengrant.com/links](https://tristengrant.com/links)
-- Mastodon: [@tristen@booktoot.social](https://booktook.social/@tristen)
+- Mastodon: [@tristen@booktoot.social](https://booktoot.social/@tristen)
