@@ -2,7 +2,7 @@
 
 ### I use Github to manage and version control my personal website, [tristengrant.com](https://tristengrant.com)
 
-- Ko-fi: [k-fi.com/tristengrant](https://ko-fi.com/tristengrant)
+- Ko-fi: [ko-fi.com/tristengrant](https://ko-fi.com/tristengrant)
 - Link Page: [tristengrant.com/links](https://tristengrant.com/links)
 - Mastodon: [@tristen@booktoot.social](https://booktoot.social/@tristen)
-- Ko-fi Shop: [k-fi.com/tristengrant/shop](https://ko-fi.com/tristengrant/shop)
+- Ko-fi Shop: [ko-fi.com/tristengrant/shop](https://ko-fi.com/tristengrant/shop)
