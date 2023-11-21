@@ -1,4 +1,4 @@
-## 👋 Hey! I’m Tristen Grant. I draw kids picture books and sell original doodles on Ko-fi.
+## 👋 Hey! I’m Tristen Grant. I draw kids picture books, make ambient music and sell original doodles on Ko-fi.
 
 ### I use Github to manage and version control my personal website, [tristengrant.com](https://tristengrant.com)
 
