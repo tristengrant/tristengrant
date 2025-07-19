@@ -1,4 +1,4 @@
-## 👋 I'm Tristen Grant. A Canadian picture book illustrator & webcomic creator. Inspired by my own experience with a learning disability, I make art that helps kids feel seen & valued. I also compose ambient music + share open-source tools that support my process.
+## I'm Tristen Grant. A Canadian picture book illustrator & webcomic creator. Inspired by my own experience with a learning disability, I make art that helps kids feel seen & valued. I also compose ambient music + share open-source tools that support my process.
 
 ### I use Github to manage and version control my personal website, [tristengrant.com](https://tristengrant.com/) and my webcomic [Cat and Bot]{https://catandbotcomic.com/}
 
